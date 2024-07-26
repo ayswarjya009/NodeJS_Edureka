@@ -4,16 +4,16 @@
   "description": "first express app",
   "main": "index.js",
   "scripts": {
-    "start":"node app.js",
-    "dev":"nodemon app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [
     "node",
     "express"
   ],
-  "author": "Tai Lu",
+  "author": "Ayswarjya",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.19.2"
   }
 }
